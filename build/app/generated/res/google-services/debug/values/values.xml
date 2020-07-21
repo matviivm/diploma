@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">390121416583-2fck6jk88rvlpv4c610hou7tl4nqq9gn.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartsocket-b511e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">390121416583</string>
+    <string name="google_api_key" translatable="false">AIzaSyAL3ShP9g2MMJx2VuS5AxjhTewHnKIvxwY</string>
+    <string name="google_app_id" translatable="false">1:390121416583:android:b43a1c36ccc6f126ff5522</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAL3ShP9g2MMJx2VuS5AxjhTewHnKIvxwY</string>
+    <string name="google_storage_bucket" translatable="false">smartsocket-b511e.appspot.com</string>
+    <string name="project_id" translatable="false">smartsocket-b511e</string>
+</resources>

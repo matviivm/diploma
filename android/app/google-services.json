@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390121416583",
+    "firebase_url": "https://smartsocket-b511e.firebaseio.com",
+    "project_id": "smartsocket-b511e",
+    "storage_bucket": "smartsocket-b511e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390121416583:android:b43a1c36ccc6f126ff5522",
+        "android_client_info": {
+          "package_name": "com.example.smart_socket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390121416583-2fck6jk88rvlpv4c610hou7tl4nqq9gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3ShP9g2MMJx2VuS5AxjhTewHnKIvxwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390121416583-2fck6jk88rvlpv4c610hou7tl4nqq9gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
